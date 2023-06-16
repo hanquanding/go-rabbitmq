@@ -1,2 +1,3 @@
 # go-rabbitmq
-golang使用`rabbitMQ`
+
+Golang 使用 `rabbitMQ` 消息队列
